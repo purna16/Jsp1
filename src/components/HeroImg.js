@@ -19,6 +19,8 @@ const HeroImg = () => {
                     I am currently interning at IIT-Bombay as a DevOps Engineer.
                     </h1>
                     <div>
+                        <br>  </br>
+                        <br>  </br>
                         <Link to ="/Projects" className="btn">Projects</Link>
                         <Link to ="/Contact" className="btn btn-light">Contact</Link>
                     </div>
