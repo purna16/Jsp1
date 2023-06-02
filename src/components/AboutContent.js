@@ -2,8 +2,8 @@ import "./AboutContent.css";
 import React from 'react';
 // import { render } from "@testing-library/react";
 import {Link} from "react-router-dom";
-import React1 from "../assets/PSU.png";
-import React2 from "../assets/full-stack.png";
+import React1 from "../assets/iitb.png";
+import React2 from "../assets/devops.png";
 
 const AboutContent = () => {
     // render()
