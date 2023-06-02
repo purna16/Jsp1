@@ -12,7 +12,7 @@ const AboutContent = () => {
             <div className="about">
                 <div className="left">
                     <h1>Who Am I?</h1>
-                    <p>I am an aspiring Full Stack Developer and a Computer Science Student at Penn State</p>
+                    <p>Recent Graduate Seeking Entry level DevOps Role To Utilize Technical Skills and Passion For Continuous Improvement</p>
                     <Link to="/contact">
                         <button className="btn">Contact</button>
                     </Link>
