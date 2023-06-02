@@ -13,10 +13,10 @@ const HeroImg = () => {
                 </div>
                 <div className="content">
                     <p>
-                        Hi, My name is UC Choudhary.
+                        Hi, My name is Purna Siva Sai.
                     </p>
                     <h1>
-                        I am a Computer Science Student at Penn State.
+                    I am currently interning at IIT-Bombay as a DevOps Engineer.
                     </h1>
                     <div>
                         <Link to ="/Projects" className="btn">Projects</Link>

@@ -14,8 +14,7 @@ const Footer = () => {
           <div className="location">
             <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
             <div>
-              <p>Pennsylvania State University, University Park</p>
-              <p>University Park, PA 16802.</p>
+              <p>Intern at IIT, BOMBAY.</p>
             </div>
           </div>
           <div className="phone">
@@ -24,7 +23,7 @@ const Footer = () => {
                 size={20}
                 style={{ color: "#fff", marginRight: "2rem" }}
               />{" "}
-              ufc5009@psu.edu
+              purnanaidu567@gmail.com
             </h4>
           </div>
           <div className="email">
@@ -33,7 +32,7 @@ const Footer = () => {
                 size={20}
                 style={{ color: "#fff", marginRight: "2rem" }}
               />{" "}
-              +1(484)-797-8693
+              +91 824-777-3535
             </h4>
           </div>
           <div className="GitHub">
@@ -42,17 +41,17 @@ const Footer = () => {
                 size={20}
                 style={{ color: "#fff", marginRight: "2rem" }}
               />{" "}
-              github.com/UDogg
+              github.com/purna16
             </h4>
           </div>
         </div>
         <div className="right">
           <h4>About Me</h4>
           <p>
-            Hi, My Name is Utkarsh(UC) Choudhary.
+            Hi, My Name is Purna Siva Sai.
           </p>
           <p>
-            <a href="https://ipfs.io/ipfs/QmbwGMYrckUzTwcP8bTxRMrLqxqaUATPs7xUqsAWacFEUM?filename=CV_Utkarsh%20Choudhary.pdf"> Click Here to check out my Résumé!</a>
+            <a href="https://drive.google.com/file/d/1TRtuhX1xltUnnJoyp2XIHNJLOHtw86C1/view"> Click Here to check out my Résumé!</a>
           </p>
         </div>
       </div>

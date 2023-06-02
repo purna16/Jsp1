@@ -12,7 +12,7 @@ const Contact = () => {
         return (
             <div>
                 <Navbar />
-                <HeroImg2 heading="CONTACT" text="Email me: ufc5009@psu.edu"/>
+                <HeroImg2 heading="CONTACT" text="Email me: purnanaidu567@gmail.com"/>
                 <Form />
                 <Footer />
             </div>

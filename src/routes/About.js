@@ -13,7 +13,7 @@ const About = () => {
       <Navbar />
       <HeroImg2
         heading="ABOUT."
-        text="I'm currently a Penn State Student learning CMPSC 297."
+        text="I am currently doing an internship at IIT-Bombay as a developer operations engineer ."
       />
       <AboutContent />
       <Footer />
