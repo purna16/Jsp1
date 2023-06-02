@@ -35,6 +35,9 @@
     font-size: 4rem;
     padding: 0.6rem, 0, 0.5rem;
 }
+.btncont {
+    margin-top: 30px;
+}
 .hero .content p{
     font-size: 1.4rem;
     font-weight: 200;
